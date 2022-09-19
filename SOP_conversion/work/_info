@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vSOP
+Z0 !s110 1618997380
+!i10b 1
+!s100 dje=M=QHIg>0d9Mj`5L0S0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`E7kegz<dN[6bP7ManGIP3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/e9408/Desktop/HW1 E94081149/HW1-4
+w1618997377
+8C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/SOP.v
+FC:/Users/e9408/Desktop/HW1 E94081149/HW1-4/SOP.v
+!i122 0
+L0 3 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1618997380.000000
+!s107 C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/SOP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/SOP.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@s@o@p
+vtest
+R0
+!i10b 1
+!s100 VoIfa8Q9Pg?:RVX>3N7iT1
+R1
+IzhREmEZ1IEOh?0ZJgfRKH0
+R2
+R3
+w1618967574
+8C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/testbench.v
+FC:/Users/e9408/Desktop/HW1 E94081149/HW1-4/testbench.v
+!i122 1
+L0 2 43
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/e9408/Desktop/HW1 E94081149/HW1-4/testbench.v|
+!i113 1
+R6
+R7
